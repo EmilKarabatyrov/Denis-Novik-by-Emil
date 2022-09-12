@@ -142,32 +142,15 @@ margin-top: 84px;
 .ps {
   background-color: rgba(52, 54, 78, 0.98);
 }
-.ps:hover {
-  box-shadow: 0 0 15px 0 rgba(68, 70, 92, 0.98);
-  cursor: pointer;
-}
 .ai {
   background-color: rgba(66, 51, 37, 0.98);
-}
-.ai:hover {
-  box-shadow: 0 0 15px 0 rgba(85, 68, 53, 0.98);
-  cursor: pointer;
 }
 .ae{
   background-color: rgba(68, 47, 85, 0.98);
 }
-.ae:hover {
-  box-shadow: 0 0 15px 0 rgba(91, 67, 112, 0.98);
-  cursor: pointer;
-}
 .figma {
   width: 64px;
 	position: relative;
-}
-.figma:hover {
-  box-shadow: 0 0 5px 0 rgba(142, 139, 139, 0.98),
-    inset 0 0 5px 0 rgba(142, 139, 139, 0.98);
-  cursor: pointer;
 }
 .pink{
 	position: absolute;
