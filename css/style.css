@@ -151,7 +151,7 @@ text-align: center;
 .skill_h{
 	font-family: 'Gilroy-Bold';
 	font-size: 34px;
-	margin-top: 200px;
+	margin-top: 91px;
 }
 .work{
 	font-family: 'Gilroy-Medium';
@@ -258,7 +258,7 @@ text-align: center;
 .portf_h{
 	font-family: 'Gilroy-Bold';
 	font-size: 34px;
-	margin-top: 223px;
+	margin-top: 113px;
 }
 .img_portf{
 	margin-top: 60px;
@@ -289,7 +289,7 @@ text-decoration: underline;
 	color: #828282;
 }
 .braun{
-	margin-top: 100px;
+	padding-bottom:96px;
 	font-family: 'Gilroy-Medium';
 font-size: 18px;
 text-align: center;
@@ -303,7 +303,7 @@ text-decoration: underline;
 }
 footer {
   text-align: center;
-  padding-top: 115px;
+  margin-top: 115px;
 }
 .first_footer_text h2 {
   font-family: "Gilroy-Bold";
