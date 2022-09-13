@@ -328,7 +328,7 @@ footer {
 .button:hover {
 	box-shadow: 0 0 20px 0 rgba(68, 47, 85, 0.98);
 }
-.button p{
+.button a{
   font-family: "Gilroy-Bold";
   font-size: 18px;
   color: #ffffff;
