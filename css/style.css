@@ -53,6 +53,22 @@ header{
 .header_top li:first-child{
 	color: #070707;
 }
+}
+.header_top li:hover:nth-child(1){
+	color:#828282;
+}
+.header_top li:hover:nth-child(2){
+	color: darkgray;
+}
+.header_top li:hover:nth-child(3){
+	color: darkgray;
+}
+.header_top li:hover:nth-child(4){
+	color: darkgray;
+}
+.header_top li:hover:nth-child(5){
+	color: darkgray;
+}
 .line{
 	border: 1px solid #828282;
 	margin-top: 31.92px;
@@ -142,15 +158,27 @@ margin-top: 84px;
 .ps {
   background-color: rgba(52, 54, 78, 0.98);
 }
+.ps:hover{
+	box-shadow: 0 0 20px 0 rgba(68, 47, 85, 0.98);
+}
 .ai {
   background-color: rgba(66, 51, 37, 0.98);
+}
+.ai:hover{
+	box-shadow: 0 0 20px 0 rgba(68, 47, 85, 0.98);
 }
 .ae{
   background-color: rgba(68, 47, 85, 0.98);
 }
+.ae:hover{
+	box-shadow: 0 0 20px 0 rgba(68, 47, 85, 0.98);
+}
 .figma {
   width: 64px;
 	position: relative;
+}
+.figma:hover{
+	box-shadow: 0 0 20px 0 rgba(68, 47, 85, 0.98);
 }
 .pink{
 	position: absolute;
@@ -212,12 +240,18 @@ img{
 	text-decoration: underline;
 	margin-top: 45px;
 }
+.online p:hover{
+	color: #828282;
+}
 .reebok{
 	margin-top: 100px;
 	font-family: 'Gilroy-Medium';
 font-size: 18px;
 text-align: center;
 text-decoration: underline;
+}
+.reebok p:hover{
+	color: #828282;
 }
 .reebok p{
 	margin-top: 45px;
@@ -231,6 +265,9 @@ text-decoration: underline;
 }
 .braun p{
 	margin-top: 45px;
+}
+.braun p:hover{
+	color: #828282;
 }
 footer {
   text-align: center;
