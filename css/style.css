@@ -89,7 +89,7 @@ header{
 	margin-top: 31.92px;
 }
 .first_page{
-
+margin-bottom:104px
 }
 	.block_1{
 		display: flex;
@@ -244,7 +244,7 @@ background-color: rgba(246, 246, 246, 1);
 .portf_h{
 	font-family: 'Gilroy-Bold';
 	font-size: 34px;
-	margin-top: 113px;
+	padding-top:120px ;
 }
 .img_portf{
 	margin-top: 60px;
