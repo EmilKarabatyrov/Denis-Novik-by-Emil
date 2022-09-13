@@ -296,7 +296,7 @@ footer {
 .button:hover{
 	color: #828282;
 }
-.button a {
+.button p {
   font-family: "Gilroy-Bold";
   font-size: 18px;
   color: #ffffff;
