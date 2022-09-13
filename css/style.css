@@ -294,7 +294,7 @@ footer {
   cursor: pointer;
 }
 .button:hover{
-	color: #828282;
+	box-shadow: 0 0 20px 0 rgba(68, 47, 85, 0.98);
 }
 .button p {
   font-family: "Gilroy-Bold";
